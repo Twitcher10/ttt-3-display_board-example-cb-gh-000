@@ -1,6 +1,6 @@
 def method_display
-  cell = "   |   |   "
-  puts cell
+  puts "Welcome To Tic Tac Toe"
+  puts "   |   |   " 
   puts "-----------"
   puts "   |   |   "
   puts "-----------"

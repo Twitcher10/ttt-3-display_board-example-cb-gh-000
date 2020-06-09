@@ -1,5 +1,6 @@
 def method_display
-  puts "   |   |   "
+  cell = "   |   |   "
+  puts cell
   puts "-----------"
   puts "   |   |   "
   puts "-----------"

@@ -1,5 +1,4 @@
 def display_board
-  puts "Welcome To Tic Tac Toe"
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
